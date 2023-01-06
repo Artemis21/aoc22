@@ -1,0 +1,584 @@
+{
+    "1-1": {
+        "2399026": {
+            "colour": "red",
+            "message": "That's not the right answer.  If you're stuck, make sure you're using the full input data; there are also some general tips on the about page, or you can ask for hints on the subreddit.  Please wait one minute before trying again. (You guessed 2399026.) [Return to Day 1]"
+        },
+        "68775": {
+            "colour": "green",
+            "message": "That's the right answer!  You are one gold star closer to collecting enough star fruit. [Continue to Part Two]"
+        }
+    },
+    "1-2": {
+        "202585": {
+            "colour": "green",
+            "message": "That's the right answer!  You are one gold star closer to collecting enough star fruit. You got rank 899 on this star's leaderboard.You have completed Day 1! You can [Shareon  Twitter\nMastodon] this victory or [Return to Your Advent Calendar]."
+        }
+    },
+    "2-1": {
+        "12855": {
+            "colour": "green",
+            "message": "That's the right answer!  You are one gold star closer to collecting enough star fruit. You achieved rank 92 on this star's leaderboard and gained 9 points! [Continue to Part Two]"
+        },
+        "12063": {
+            "colour": "yellow",
+            "message": "You don't seem to be solving the right level.  Did you already complete it? [Return to Day 2]"
+        },
+        "12387": {
+            "colour": "yellow",
+            "message": "You don't seem to be solving the right level.  Did you already complete it? [Return to Day 2]"
+        }
+    },
+    "2-2": {
+        "13000": {
+            "colour": "red",
+            "message": "That's not the right answer.  If you're stuck, make sure you're using the full input data; there are also some general tips on the about page, or you can ask for hints on the subreddit.  Please wait one minute before trying again. (You guessed 13000.) [Return to Day 2]"
+        },
+        "13726": {
+            "colour": "green",
+            "message": "That's the right answer!  You are one gold star closer to collecting enough star fruit. You got rank 443 on this star's leaderboard.You have completed Day 2! You can [Shareon  Twitter\nMastodon] this victory or [Return to Your Advent Calendar]."
+        },
+        "15141": {
+            "colour": "yellow",
+            "message": "You don't seem to be solving the right level.  Did you already complete it? [Return to Day 2]"
+        },
+        "12785": {
+            "colour": "yellow",
+            "message": "You don't seem to be solving the right level.  Did you already complete it? [Return to Day 2]"
+        }
+    },
+    "3-1": {
+        "7568": {
+            "colour": "green",
+            "message": "That's the right answer!  You are one gold star closer to collecting enough star fruit. You achieved rank 34 on this star's leaderboard and gained 67 points! [Continue to Part Two]"
+        }
+    },
+    "3-2": {
+        "2780": {
+            "colour": "green",
+            "message": "That's the right answer!  You are one gold star closer to collecting enough star fruit. You achieved rank 32 on this star's leaderboard and gained 69 points!You have completed Day 3! You can [Shareon  Twitter\nMastodon] this victory or [Return to Your Advent Calendar]."
+        }
+    },
+    "4-1": {
+        "559": {
+            "colour": "red",
+            "message": "That's not the right answer.  If you're stuck, make sure you're using the full input data; there are also some general tips on the about page, or you can ask for hints on the subreddit.  Please wait one minute before trying again. (You guessed 559.) [Return to Day 4]"
+        },
+        "595": {
+            "colour": "green",
+            "message": "That's the right answer!  You are one gold star closer to collecting enough star fruit. You got rank 279 on this star's leaderboard. [Continue to Part Two]"
+        },
+        "2": {
+            "colour": "yellow",
+            "message": "You don't seem to be solving the right level.  Did you already complete it? [Return to Day 4]"
+        },
+        "616": {
+            "colour": "yellow",
+            "message": "You don't seem to be solving the right level.  Did you already complete it? [Return to Day 4]"
+        }
+    },
+    "4-2": {
+        "999": {
+            "colour": "red",
+            "message": "That's not the right answer.  If you're stuck, make sure you're using the full input data; there are also some general tips on the about page, or you can ask for hints on the subreddit.  Please wait one minute before trying again. (You guessed 999.) [Return to Day 4]"
+        },
+        "618": {
+            "colour": "red",
+            "message": "That's not the right answer.  If you're stuck, make sure you're using the full input data; there are also some general tips on the about page, or you can ask for hints on the subreddit.  Please wait one minute before trying again. (You guessed 618.) [Return to Day 4]"
+        },
+        "561": {
+            "colour": "red",
+            "message": "That's not the right answer.  If you're stuck, make sure you're using the full input data; there are also some general tips on the about page, or you can ask for hints on the subreddit.  Please wait one minute before trying again. (You guessed 561.) [Return to Day 4]"
+        },
+        "928": {
+            "colour": "red",
+            "message": "That's not the right answer.  Curiously, it's the right answer for someone else; you might be logged in to the wrong account or just unlucky. In any case, you need to be using your puzzle input.  If you're stuck, make sure you're using the full input data; there are also some general tips on the about page, or you can ask for hints on the subreddit.  Because you have guessed incorrectly 4 times on this puzzle, please wait 5 minutes before trying again. (You guessed 928.) [Return to Day 4]"
+        },
+        "4": {
+            "colour": "red",
+            "message": "That's not the right answer.  If you're stuck, make sure you're using the full input data; there are also some general tips on the about page, or you can ask for hints on the subreddit.  Because you have guessed incorrectly 5 times on this puzzle, please wait 5 minutes before trying again. (You guessed 4.) [Return to Day 4]"
+        },
+        "952": {
+            "colour": "green",
+            "message": "That's the right answer!  You are one gold star closer to collecting enough star fruit.You have completed Day 4! You can [Shareon  Twitter\nMastodon] this victory or [Return to Your Advent Calendar]."
+        }
+    },
+    "5-1": {
+        "TPGVQPFDH": {
+            "colour": "green",
+            "message": "That's the right answer!  You are one gold star closer to collecting enough star fruit. You got rank 324 on this star's leaderboard. [Continue to Part Two]"
+        },
+        "TPWQQQRFQ": {
+            "colour": "yellow",
+            "message": "You don't seem to be solving the right level.  Did you already complete it? [Return to Day 5]"
+        }
+    },
+    "5-2": {
+        "DMRDFRHHH": {
+            "colour": "green",
+            "message": "That's the right answer!  You are one gold star closer to collecting enough star fruit. You got rank 661 on this star's leaderboard.You have completed Day 5! You can [Shareon  Twitter\nMastodon] this victory or [Return to Your Advent Calendar]."
+        },
+        "FGTTFTGMW": {
+            "colour": "yellow",
+            "message": "You don't seem to be solving the right level.  Did you already complete it? [Return to Day 5]"
+        }
+    },
+    "6-1": {
+        "1647": {
+            "colour": "green",
+            "message": "That's the right answer!  You are one gold star closer to collecting enough star fruit. You achieved rank 76 on this star's leaderboard and gained 25 points! [Continue to Part Two]"
+        },
+        "1643": {
+            "colour": "yellow",
+            "message": "You don't seem to be solving the right level.  Did you already complete it? [Return to Day 6]"
+        }
+    },
+    "6-2": {
+        "2447": {
+            "colour": "green",
+            "message": "That's the right answer!  You are one gold star closer to collecting enough star fruit. You achieved rank 62 on this star's leaderboard and gained 39 points!You have completed Day 6! You can [Shareon  Twitter\nMastodon] this victory or [Return to Your Advent Calendar]."
+        },
+        "2433": {
+            "colour": "yellow",
+            "message": "You don't seem to be solving the right level.  Did you already complete it? [Return to Day 6]"
+        }
+    },
+    "7-1": {
+        "1091805": {
+            "colour": "red",
+            "message": "That's not the right answer.  If you're stuck, make sure you're using the full input data; there are also some general tips on the about page, or you can ask for hints on the subreddit.  Please wait one minute before trying again. (You guessed 1091805.) [Return to Day 7]"
+        },
+        "1077191": {
+            "colour": "green",
+            "message": "That's the right answer!  You are one gold star closer to collecting enough star fruit. You got rank 394 on this star's leaderboard. [Continue to Part Two]"
+        }
+    },
+    "7-2": {
+        "25773269": {
+            "colour": "red",
+            "message": "That's not the right answer.  If you're stuck, make sure you're using the full input data; there are also some general tips on the about page, or you can ask for hints on the subreddit.  Please wait one minute before trying again. (You guessed 25773269.) [Return to Day 7]"
+        },
+        "4309": {
+            "colour": "red",
+            "message": "That's not the right answer.  If you're stuck, make sure you're using the full input data; there are also some general tips on the about page, or you can ask for hints on the subreddit.  Please wait one minute before trying again. (You guessed 4309.) [Return to Day 7]"
+        },
+        "5649896": {
+            "colour": "green",
+            "message": "That's the right answer!  You are one gold star closer to collecting enough star fruit. You got rank 510 on this star's leaderboard.You have completed Day 7! You can [Shareon  Twitter\nMastodon] this victory or [Return to Your Advent Calendar]."
+        }
+    },
+    "8-1": {
+        "0": {
+            "colour": "red",
+            "message": "That's not the right answer.  If you're stuck, make sure you're using the full input data; there are also some general tips on the about page, or you can ask for hints on the subreddit.  Please wait one minute before trying again. (You guessed 0.) [Return to Day 8]"
+        },
+        "1679": {
+            "colour": "green",
+            "message": "That's the right answer!  You are one gold star closer to collecting enough star fruit. You achieved rank 77 on this star's leaderboard and gained 24 points! [Continue to Part Two]"
+        },
+        "21": {
+            "colour": "yellow",
+            "message": "You don't seem to be solving the right level.  Did you already complete it? [Return to Day 8]"
+        }
+    },
+    "8-2": {
+        "5764801": {
+            "colour": "red",
+            "message": "That's not the right answer.  If you're stuck, make sure you're using the full input data; there are also some general tips on the about page, or you can ask for hints on the subreddit.  Please wait one minute before trying again. (You guessed 5764801.) [Return to Day 8]"
+        },
+        "500850": {
+            "colour": "red",
+            "message": "That's not the right answer.  If you're stuck, make sure you're using the full input data; there are also some general tips on the about page, or you can ask for hints on the subreddit.  Please wait one minute before trying again. (You guessed 500850.) [Return to Day 8]"
+        },
+        "536625": {
+            "colour": "green",
+            "message": "That's the right answer!  You are one gold star closer to collecting enough star fruit. You got rank 212 on this star's leaderboard.You have completed Day 8! You can [Shareon  Twitter\nMastodon] this victory or [Return to Your Advent Calendar]."
+        },
+        "2711880": {
+            "colour": "yellow",
+            "message": "You don't seem to be solving the right level.  Did you already complete it? [Return to Day 8]"
+        },
+        "2561220": {
+            "colour": "yellow",
+            "message": "You don't seem to be solving the right level.  Did you already complete it? [Return to Day 8]"
+        },
+        "16": {
+            "colour": "yellow",
+            "message": "You don't seem to be solving the right level.  Did you already complete it? [Return to Day 8]"
+        },
+        "5760000": {
+            "colour": "yellow",
+            "message": "You don't seem to be solving the right level.  Did you already complete it? [Return to Day 8]"
+        }
+    },
+    "9-1": {
+        "5907": {
+            "colour": "green",
+            "message": "That's the right answer!  You are one gold star closer to collecting enough star fruit. [Continue to Part Two]"
+        }
+    },
+    "9-2": {
+        "2303": {
+            "colour": "green",
+            "message": "That's the right answer!  You are one gold star closer to collecting enough star fruit.You have completed Day 9! You can [Shareon  Twitter\nMastodon] this victory or [Return to Your Advent Calendar]."
+        }
+    },
+    "10-1": {
+        "5065": {
+            "colour": "red",
+            "message": "That's not the right answer.  If you're stuck, make sure you're using the full input data; there are also some general tips on the about page, or you can ask for hints on the subreddit.  Please wait one minute before trying again. (You guessed 5065.) [Return to Day 10]"
+        },
+        "5876": {
+            "colour": "red",
+            "message": "That's not the right answer.  If you're stuck, make sure you're using the full input data; there are also some general tips on the about page, or you can ask for hints on the subreddit.  Please wait one minute before trying again. (You guessed 5876.) [Return to Day 10]"
+        },
+        "15150": {
+            "colour": "red",
+            "message": "That's not the right answer.  If you're stuck, make sure you're using the full input data; there are also some general tips on the about page, or you can ask for hints on the subreddit.  Please wait one minute before trying again. (You guessed 15150.) [Return to Day 10]"
+        },
+        "13904": {
+            "colour": "red",
+            "message": "That's not the right answer.  If you're stuck, make sure you're using the full input data; there are also some general tips on the about page, or you can ask for hints on the subreddit.  Because you have guessed incorrectly 4 times on this puzzle, please wait 5 minutes before trying again. (You guessed 13904.) [Return to Day 10]"
+        },
+        "13820": {
+            "colour": "green",
+            "message": "That's the right answer!  You are one gold star closer to collecting enough star fruit. [Continue to Part Two]"
+        },
+        "561605": {
+            "colour": "yellow",
+            "message": "You don't seem to be solving the right level.  Did you already complete it? [Return to Day 10]"
+        },
+        "13940": {
+            "colour": "yellow",
+            "message": "You don't seem to be solving the right level.  Did you already complete it? [Return to Day 10]"
+        },
+        "13100": {
+            "colour": "yellow",
+            "message": "You don't seem to be solving the right level.  Did you already complete it? [Return to Day 10]"
+        },
+        "15913": {
+            "colour": "yellow",
+            "message": "You don't seem to be solving the right level.  Did you already complete it? [Return to Day 10]"
+        },
+        "13703": {
+            "colour": "yellow",
+            "message": "You don't seem to be solving the right level.  Did you already complete it? [Return to Day 10]"
+        }
+    },
+    "10-2": {
+        "ZKGRKGRK": {
+            "colour": "green",
+            "message": "That's the right answer!  You are one gold star closer to collecting enough star fruit.You have completed Day 10! You can [Shareon  Twitter\nMastodon] this victory or [Return to Your Advent Calendar]."
+        }
+    },
+    "11-1": {
+        "22400": {
+            "colour": "red",
+            "message": "That's not the right answer; your answer is too low.  If you're stuck, make sure you're using the full input data; there are also some general tips on the about page, or you can ask for hints on the subreddit.  Please wait one minute before trying again. (You guessed 22400.) [Return to Day 11]"
+        },
+        "56": {
+            "colour": "red",
+            "message": "That's not the right answer.  If you're stuck, make sure you're using the full input data; there are also some general tips on the about page, or you can ask for hints on the subreddit.  Please wait one minute before trying again. (You guessed 56.) [Return to Day 11]"
+        },
+        "61503": {
+            "colour": "green",
+            "message": "That's the right answer!  You are one gold star closer to collecting enough star fruit. [Continue to Part Two]"
+        }
+    },
+    "11-2": {
+        "1436400479520": {
+            "colour": "red",
+            "message": "That's not the right answer; your answer is too high.  If you're stuck, make sure you're using the full input data; there are also some general tips on the about page, or you can ask for hints on the subreddit.  Please wait one minute before trying again. (You guessed 1436400479520.) [Return to Day 11]"
+        },
+        "14081365540": {
+            "colour": "green",
+            "message": "That's the right answer!  You are one gold star closer to collecting enough star fruit.You have completed Day 11! You can [Shareon  TwitterMastodon] this victory or [Return to Your Advent Calendar]."
+        }
+    },
+    "12-1": {
+        "376": {
+            "colour": "red",
+            "message": "That's not the right answer.  If you're stuck, make sure you're using the full input data; there are also some general tips on the about page, or you can ask for hints on the subreddit.  Please wait one minute before trying again. (You guessed 376.) [Return to Day 12]"
+        },
+        "380": {
+            "colour": "green",
+            "message": "That's the right answer!  You are one gold star closer to collecting enough star fruit. You got rank 598 on this star's leaderboard. [Continue to Part Two]"
+        },
+        "114": {
+            "colour": "yellow",
+            "message": "You don't seem to be solving the right level.  Did you already complete it? [Return to Day 12]"
+        }
+    },
+    "12-2": {
+        "375": {
+            "colour": "green",
+            "message": "That's the right answer!  You are one gold star closer to collecting enough star fruit. You got rank 644 on this star's leaderboard.You have completed Day 12! You can [Shareon  TwitterMastodon] this victory or [Return to Your Advent Calendar]."
+        },
+        "13": {
+            "colour": "yellow",
+            "message": "You don't seem to be solving the right level.  Did you already complete it? [Return to Day 12]"
+        }
+    },
+    "13-1": {
+        "6425": {
+            "colour": "red",
+            "message": "That's not the right answer; your answer is too high.  If you're stuck, make sure you're using the full input data; there are also some general tips on the about page, or you can ask for hints on the subreddit.  Please wait one minute before trying again. (You guessed 6425.) [Return to Day 13]"
+        },
+        "4821": {
+            "colour": "green",
+            "message": "That's the right answer!  You are one gold star closer to collecting enough star fruit. [Continue to Part Two]"
+        },
+        "5432": {
+            "colour": "yellow",
+            "message": "You don't seem to be solving the right level.  Did you already complete it? [Return to Day 13]"
+        }
+    },
+    "13-2": {
+        "21890": {
+            "colour": "green",
+            "message": "That's the right answer!  You are one gold star closer to collecting enough star fruit.You have completed Day 13! You can [Shareon  TwitterMastodon] this victory or [Return to Your Advent Calendar]."
+        },
+        "28820": {
+            "colour": "yellow",
+            "message": "You don't seem to be solving the right level.  Did you already complete it? [Return to Day 13]"
+        }
+    },
+    "14-1": {
+        "0": {
+            "colour": "red",
+            "message": "That's not the right answer.  If you're stuck, make sure you're using the full input data; there are also some general tips on the about page, or you can ask for hints on the subreddit.  Please wait one minute before trying again. (You guessed 0.) [Return to Day 14]"
+        },
+        "17": {
+            "colour": "red",
+            "message": "That's not the right answer.  If you're stuck, make sure you're using the full input data; there are also some general tips on the about page, or you can ask for hints on the subreddit.  Please wait one minute before trying again. (You guessed 17.) [Return to Day 14]"
+        },
+        "799": {
+            "colour": "green",
+            "message": "That's the right answer!  You are one gold star closer to collecting enough star fruit. [Continue to Part Two]"
+        }
+    },
+    "14-2": {
+        "29393": {
+            "colour": "red",
+            "message": "That's not the right answer; your answer is too high.  If you're stuck, make sure you're using the full input data; there are also some general tips on the about page, or you can ask for hints on the subreddit.  Please wait one minute before trying again. (You guessed 29393.) [Return to Day 14]"
+        },
+        "29076": {
+            "colour": "green",
+            "message": "That's the right answer!  You are one gold star closer to collecting enough star fruit.You have completed Day 14! You can [Shareon  TwitterMastodon] this victory or [Return to Your Advent Calendar]."
+        }
+    },
+    "15-1": {
+        "5125700": {
+            "colour": "green",
+            "message": "That's the right answer!  You are one gold star closer to collecting enough star fruit. [Continue to Part Two]"
+        }
+    },
+    "15-2": {
+        "11379394658764": {
+            "colour": "green",
+            "message": "That's the right answer!  You are one gold star closer to collecting enough star fruit.You have completed Day 15! You can [Shareon  TwitterMastodon] this victory or [Return to Your Advent Calendar]."
+        }
+    },
+    "16-1": {
+        "1716": {
+            "colour": "green",
+            "message": "That's the right answer!  You are one gold star closer to collecting enough star fruit. [Continue to Part Two]"
+        }
+    },
+    "16-2": {
+        "2504": {
+            "colour": "green",
+            "message": "That's the right answer!  You are one gold star closer to collecting enough star fruit.You have completed Day 16! You can [Shareon  TwitterMastodon] this victory or [Return to Your Advent Calendar]."
+        }
+    },
+    "17-1": {
+        "3175": {
+            "colour": "green",
+            "message": "That's the right answer!  You are one gold star closer to collecting enough star fruit. [Continue to Part Two]"
+        },
+        "3085": {
+            "colour": "yellow",
+            "message": "You don't seem to be solving the right level.  Did you already complete it? [Return to Day 17]"
+        },
+        "3068": {
+            "colour": "yellow",
+            "message": "You don't seem to be solving the right level.  Did you already complete it? [Return to Day 17]"
+        },
+        "1817": {
+            "colour": "yellow",
+            "message": "You don't seem to be solving the right level.  Did you already complete it? [Return to Day 17]"
+        },
+        "3124": {
+            "colour": "yellow",
+            "message": "You don't seem to be solving the right level.  Did you already complete it? [Return to Day 17]"
+        },
+        "4": {
+            "colour": "yellow",
+            "message": "You don't seem to be solving the right level.  Did you already complete it? [Return to Day 17]"
+        }
+    },
+    "18-1": {
+        "3470": {
+            "colour": "green",
+            "message": "That's the right answer!  You are one gold star closer to collecting enough star fruit. [Continue to Part Two]"
+        }
+    },
+    "18-2": {
+        "1986": {
+            "colour": "green",
+            "message": "That's the right answer!  You are one gold star closer to collecting enough star fruit.You have completed Day 18! You can [Shareon  TwitterMastodon] this victory or [Return to Your Advent Calendar]."
+        }
+    },
+    "17-2": {
+        "1555088693074": {
+            "colour": "red",
+            "message": "That's not the right answer; your answer is too low.  If you're stuck, make sure you're using the full input data; there are also some general tips on the about page, or you can ask for hints on the subreddit.  Please wait one minute before trying again. (You guessed 1555088693074.) [Return to Day 17]"
+        },
+        "1555113636385": {
+            "colour": "green",
+            "message": "That's the right answer!  You are one gold star closer to collecting enough star fruit.You have completed Day 17! You can [Shareon  TwitterMastodon] this victory or [Return to Your Advent Calendar]."
+        }
+    },
+    "19-1": {
+        "1147": {
+            "colour": "green",
+            "message": "That's the right answer!  You are one gold star closer to collecting enough star fruit. [Continue to Part Two]"
+        }
+    },
+    "19-2": {
+        "0": {
+            "colour": "red",
+            "message": "That's not the right answer.  If you're stuck, make sure you're using the full input data; there are also some general tips on the about page, or you can ask for hints on the subreddit.  Please wait one minute before trying again. (You guessed 0.) [Return to Day 19]"
+        },
+        "3080": {
+            "colour": "green",
+            "message": "That's the right answer!  You are one gold star closer to collecting enough star fruit.You have completed Day 19! You can [Shareon  TwitterMastodon] this victory or [Return to Your Advent Calendar]."
+        }
+    },
+    "20-1": {
+        "6976": {
+            "colour": "red",
+            "message": "That's not the right answer; your answer is too high.  If you're stuck, make sure you're using the full input data; there are also some general tips on the about page, or you can ask for hints on the subreddit.  Please wait one minute before trying again. (You guessed 6976.) [Return to Day 20]"
+        },
+        "872": {
+            "colour": "green",
+            "message": "That's the right answer!  You are one gold star closer to collecting enough star fruit. [Continue to Part Two]"
+        },
+        "3": {
+            "colour": "yellow",
+            "message": "You don't seem to be solving the right level.  Did you already complete it? [Return to Day 20]"
+        },
+        "-16421": {
+            "colour": "yellow",
+            "message": "You don't seem to be solving the right level.  Did you already complete it? [Return to Day 20]"
+        }
+    },
+    "20-2": {
+        "1623178306": {
+            "colour": "red",
+            "message": "That's not the right answer; your answer is too low.  If you're stuck, make sure you're using the full input data; there are also some general tips on the about page, or you can ask for hints on the subreddit.  Please wait one minute before trying again. (You guessed 1623178306.) [Return to Day 20]"
+        },
+        "5382459262696": {
+            "colour": "green",
+            "message": "That's the right answer!  You are one gold star closer to collecting enough star fruit.You have completed Day 20! You can [Shareon  TwitterMastodon] this victory or [Return to Your Advent Calendar]."
+        }
+    },
+    "21-1": {
+        "157714751182692": {
+            "colour": "green",
+            "message": "That's the right answer!  You are one gold star closer to collecting enough star fruit. [Continue to Part Two]"
+        },
+        "157714751182692.0": {
+            "colour": "yellow",
+            "message": "You don't seem to be solving the right level.  Did you already complete it? [Return to Day 21]"
+        }
+    },
+    "21-2": {
+        "3373767893066": {
+            "colour": "red",
+            "message": "That's not the right answer; your answer is too low.  If you're stuck, make sure you're using the full input data; there are also some general tips on the about page, or you can ask for hints on the subreddit.  Please wait one minute before trying again. (You guessed 3373767893066.) [Return to Day 21]"
+        },
+        "3373767893067": {
+            "colour": "green",
+            "message": "That's the right answer!  You are one gold star closer to collecting enough star fruit.You have completed Day 21! You can [Shareon  TwitterMastodon] this victory or [Return to Your Advent Calendar]."
+        }
+    },
+    "22-1": {
+        "48330": {
+            "colour": "red",
+            "message": "That's not the right answer.  If you're stuck, make sure you're using the full input data; there are also some general tips on the about page, or you can ask for hints on the subreddit.  Please wait one minute before trying again. (You guessed 48330.) [Return to Day 22]"
+        },
+        "143166": {
+            "colour": "red",
+            "message": "That's not the right answer.  If you're stuck, make sure you're using the full input data; there are also some general tips on the about page, or you can ask for hints on the subreddit.  Please wait one minute before trying again. (You guessed 143166.) [Return to Day 22]"
+        },
+        "143162": {
+            "colour": "red",
+            "message": "That's not the right answer.  If you're stuck, make sure you're using the full input data; there are also some general tips on the about page, or you can ask for hints on the subreddit.  Please wait one minute before trying again. (You guessed 143162.) [Return to Day 22]"
+        },
+        "6032": {
+            "colour": "red",
+            "message": "That's not the right answer.  If you're stuck, make sure you're using the full input data; there are also some general tips on the about page, or you can ask for hints on the subreddit.  Because you have guessed incorrectly 4 times on this puzzle, please wait 5 minutes before trying again. (You guessed 6032.) [Return to Day 22]"
+        },
+        "73346": {
+            "colour": "green",
+            "message": "That's the right answer!  You are one gold star closer to collecting enough star fruit. [Continue to Part Two]"
+        }
+    },
+    "22-2": {
+        "106392": {
+            "colour": "green",
+            "message": "That's the right answer!  You are one gold star closer to collecting enough star fruit.You have completed Day 22! You can [Shareon  TwitterMastodon] this victory or [Return to Your Advent Calendar]."
+        },
+        "106366": {
+            "colour": "yellow",
+            "message": "You don't seem to be solving the right level.  Did you already complete it? [Return to Day 22]"
+        },
+        "20477": {
+            "colour": "yellow",
+            "message": "You don't seem to be solving the right level.  Did you already complete it? [Return to Day 22]"
+        },
+        "5031": {
+            "colour": "yellow",
+            "message": "You don't seem to be solving the right level.  Did you already complete it? [Return to Day 22]"
+        }
+    },
+    "23-1": {
+        "4005": {
+            "colour": "green",
+            "message": "That's the right answer!  You are one gold star closer to collecting enough star fruit. [Continue to Part Two]"
+        },
+        "110": {
+            "colour": "yellow",
+            "message": "You don't seem to be solving the right level.  Did you already complete it? [Return to Day 23]"
+        }
+    },
+    "23-2": {
+        "1008": {
+            "colour": "green",
+            "message": "That's the right answer!  You are one gold star closer to collecting enough star fruit.You have completed Day 23! You can [Shareon  TwitterMastodon] this victory or [Return to Your Advent Calendar]."
+        },
+        "959": {
+            "colour": "yellow",
+            "message": "You don't seem to be solving the right level.  Did you already complete it? [Return to Day 23]"
+        }
+    },
+    "24-1": {
+        "257": {
+            "colour": "green",
+            "message": "That's the right answer!  You are one gold star closer to collecting enough star fruit. You got rank 342 on this star's leaderboard. [Continue to Part Two]"
+        }
+    },
+    "24-2": {
+        "828": {
+            "colour": "green",
+            "message": "That's the right answer!  You are one gold star closer to collecting enough star fruit. You got rank 642 on this star's leaderboard.You have completed Day 24! You can [Shareon  TwitterMastodon] this victory or [Return to Your Advent Calendar]."
+        }
+    },
+    "25-1": {
+        "20-1-11==0-=0112-222": {
+            "colour": "green",
+            "message": "That's the right answer!  You are one gold star closer to collecting enough star fruit. [Continue to Part Two]"
+        }
+    }
+}
